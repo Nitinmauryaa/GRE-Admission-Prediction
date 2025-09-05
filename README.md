@@ -99,7 +99,7 @@ Model evaluation metrics and residual analysis
 🙌 Credits
 Dataset: Kaggle - Graduate Admissions
 
-Author: [Your Name or GitHub Handle]
+Author: [Nitin Maurya]
 
 This project is ideal for data science education, academic advising, and skill-building in machine learning.
 
